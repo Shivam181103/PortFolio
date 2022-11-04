@@ -29,7 +29,7 @@ const Contact = () => {
             <div>
               <h4>My Phones</h4>
               <p>Contact me anytime between 9 A:M to 9 P:M </p>
-              <Link href="tel:9627323141" class="card-link">+919627323141</Link>
+              <Link href="tel:9627323141" class="card-link">+918859580672</Link>
             </div>
           </div>
         </div>
